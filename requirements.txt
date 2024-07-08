@@ -1,0 +1,5 @@
+Requirements:
+Node JS 
+OpenAI API 
+Discord.js
+Dotenv (for configuring enviroment variables)
